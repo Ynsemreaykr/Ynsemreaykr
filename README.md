@@ -1,8 +1,6 @@
--## Merhaba 👋
-
-Ben Yunus Emre Ayıker.  
-Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  
-Kod yazmayı, algoritma geliştirmeyi ve projeler üretmeyi seviyorum.
+<h1 align="center">👋 Merhaba, Ben Yunus Emre Ayıker</h1>
+<p align="center">Kocaeli Üniversitesi • Bilgisayar Mühendisliği Öğrencisi</p>
+<p align="center">Kod yazmayı, geliştirmeyi ve projeler üretmeyi seviyorum 💻</p>
 
 ---
 
