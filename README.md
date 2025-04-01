@@ -8,10 +8,11 @@
 - C/C++
 - Java
 - Python
+- Jetson Nano
 
 ---
 
 ### 📫 Bana Ulaş
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- ✉️ emreayiker@gmail.com
+- Gmail : emreayiker@gmail.com
 
