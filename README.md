@@ -14,5 +14,5 @@
 
 ### 📫 Bana Ulaş
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- Gmail : emreayiker@gmail.com
+- ✉️ emreayiker@gmail.com
 
