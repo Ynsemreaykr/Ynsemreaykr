@@ -8,7 +8,8 @@
 - 🔹 C / C++
 - 🔹 Java
 - 🔹 Python
-- 🔹 Jetson Nano (NVIDIA)
+- 🔹 Database
+- 🔹 Arduino
 
 ---
 
