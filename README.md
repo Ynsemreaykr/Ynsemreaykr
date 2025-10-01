@@ -20,13 +20,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ynsemreaykr/Ynsemreaykr/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 📈 Aktivite Grafiği
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ynsemreaykr&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
